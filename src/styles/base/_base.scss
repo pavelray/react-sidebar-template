@@ -1,0 +1,23 @@
+/* 
+ This file will have the all the code related to Base HTML
+ - Author : Pavel Ray   
+*/
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html{
+    font-size:80.5%;
+    height: 100%;
+}
+
+body{
+    box-sizing: border-box;
+    font-family: 'Noto Sans SC', sans-serif;
+    font-weight: 400;
+    height: 100%;
+}
+
